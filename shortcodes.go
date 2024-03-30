@@ -67,7 +67,7 @@ const (
 	SPA rune = 0x96
 	EPA rune = 0x97
 	SOS rune = 0x98
-	SGC rune = 0x99
+	SGC rune = 0x99 ; SGCI = SGC
 	SCI rune = 0x9A
 	CSI rune = 0x9B
 	ST  rune = 0x9C
