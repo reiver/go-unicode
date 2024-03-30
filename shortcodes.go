@@ -74,6 +74,9 @@ const (
 	OSC rune = 0x9D
 	PM  rune = 0x9E
 	APC rune = 0x9F
+	// ...
+	LS rune = 0x2028 ; LSEP = LS
+	PS rune = 0x2029 ; PSEP = PS
 )
 
 const (

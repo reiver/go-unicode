@@ -70,6 +70,9 @@ const (
 	OperatingSystemCommand               rune = OSC
 	PrivacyMessage                       rune = PM
 	ApplicationProgramCommand            rune = APC
+	// ...
+	LineSeparator                        rune = LS
+	ParagraphSeparator                   rune = PS
 )
 
 const (
